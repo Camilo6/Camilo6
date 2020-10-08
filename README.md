@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-[(![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Camilo6&show_icons=true&theme=radical)](https://github.com/Camilo6)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Camilo6&show_icons=true&theme=radical)](https://github.com/Camilo6)
 
 <br/>
 
