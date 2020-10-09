@@ -72,7 +72,7 @@
 <p align="center">
 
 
-<a href="www.linkedin.com/in/julian-camilo-torres"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Camilo%20Torres-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/julian-camilo-torres"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Camilo%20Torres-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/camilot0rres/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-camilot0rres-black?style=flat-square&logo=instagram"></a>
 
