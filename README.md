@@ -37,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; PHP | Java | Go
+- 🔧 &nbsp; PHP | Java 
 
 <hr>
 
